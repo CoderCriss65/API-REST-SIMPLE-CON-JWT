@@ -208,6 +208,7 @@ app.listen(PORT, "0.0.0.0", () => {
 
 
 //BASE DE DATOS TABLA USUARIOS
+//
 ///CREATE TABLE usuarios (
   //id INT AUTO_INCREMENT PRIMARY KEY,
  // username VARCHAR(255) UNIQUE NOT NULL,
